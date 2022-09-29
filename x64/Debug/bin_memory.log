@@ -1,0 +1,5 @@
+﻿  week_3_HW.c
+C:\level-up\c lesson-level up\source\repos\28.08.2022\bin_memory\bin_memory\week_3_HW.c(165,22): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\level-up\c lesson-level up\source\repos\28.08.2022\bin_memory\bin_memory\week_3_HW.c(166,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\level-up\c lesson-level up\source\repos\28.08.2022\bin_memory\bin_memory\week_3_HW.c(166,11): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\level-up\c lesson-level up\source\repos\28.08.2022\bin_memory\bin_memory\week_3_HW.c(164): error C4700: uninitialized local variable 'count' used
